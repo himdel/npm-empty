@@ -1,0 +1,19 @@
+{
+  "name": "npm-empty",
+  "version": "1.0.0",
+  "description": "empty npm package (for overrides)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himdel/npm-empty.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himdel/npm-empty/issues"
+  },
+  "homepage": "https://github.com/himdel/npm-empty#readme"
+}
